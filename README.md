@@ -1,4 +1,5 @@
 # state-of-the-art-convolutional-neural-networks
+This is for the 2 nd part of the assigment above.
 I have implemented and evaluated two types of convolutional neural networks (CNNs): a custom-built CNN model and a fine-tuned pre-trained DenseNet121 model, to classify images in the Jute_Pest_Dataset .
 Steps that have Followed:
 
